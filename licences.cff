@@ -1,0 +1,788 @@
+cff-version: 1.2.0
+message: "Licences of the public repositories of V-Sekai-fire, read from the GitHub API on 2026-11-15. Cite a repository by its own CITATION.cff."
+title: "Licence inventory of the public repositories of V-Sekai-fire"
+type: dataset
+authors:
+  - name: "V-Sekai-fire"
+date-released: 2026-11-15
+license: MIT
+repository-code: "https://github.com/V-Sekai-fire/repository-public-inventory"
+references:
+  - type: software
+    title: "3d-character-poseswap"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/3d-character-poseswap"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "a2a-mcp-adapter"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/a2a-mcp-adapter"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "blender-quicklook"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/blender-quicklook"
+    license: MIT
+  - type: software
+    title: "contract-cineform-movie-writer"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-cineform-movie-writer"
+    license: Apache-2.0
+    notes: "archived"
+  - type: software
+    title: "contract-entity-packet"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-entity-packet"
+    license: MIT
+  - type: software
+    title: "contract-ggml-rd-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-ggml-rd-guest"
+    license: MIT
+  - type: software
+    title: "contract-guest-common-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-guest-common-guest"
+    license: MIT
+  - type: software
+    title: "contract-guest-runtime"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-guest-runtime"
+    license: MIT
+  - type: software
+    title: "contract-manifest-fabric"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-manifest-fabric"
+    license: Apache-2.0
+  - type: software
+    title: "contract-spatial-oracle"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-spatial-oracle"
+    license: MIT
+  - type: software
+    title: "contract-tris-to-quads-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-tris-to-quads-guest"
+    license: MIT
+  - type: software
+    title: "contract-witness-cpp"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-witness-cpp"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "contract-witness-mojo"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-witness-mojo"
+    license: MIT
+    notes: "archived"
+  - type: software
+    title: "contract-zone-backend"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/contract-zone-backend"
+    license: MIT
+  - type: software
+    title: "datasource-anny-render-corpus"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/datasource-anny-render-corpus"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "datasource-foundationdb"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/datasource-foundationdb"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "datasource-seaweedfs"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/datasource-seaweedfs"
+    license: Apache-2.0
+  - type: software
+    title: "datasource-store"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/datasource-store"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "dot-hermes"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/dot-hermes"
+    license: Apache-2.0
+  - type: software
+    title: "entities-assembly"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-assembly"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "entities-cassie-flow-project"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-cassie-flow-project"
+    license: MIT
+  - type: software
+    title: "entities-database-roundtable"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-database-roundtable"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "entities-godot"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-godot"
+    license: MIT
+  - type: software
+    title: "entities-godot-sandbox-gdscript-compiler"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-godot-sandbox-gdscript-compiler"
+    license: BSD-3-Clause
+  - type: software
+    title: "entities-godot-sandbox-robust-weight-transfer"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-godot-sandbox-robust-weight-transfer"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "entities-godot-toon-shaders"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-godot-toon-shaders"
+    notes: "the GitHub API reports a licence it does not recognise"
+  - type: software
+    title: "entities-libriscv"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-libriscv"
+    license: BSD-3-Clause
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "entities-model-explorer"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-model-explorer"
+    license: MIT
+    notes: "fork: follows its upstream's licence; archived"
+  - type: software
+    title: "entities-multiplayer-fabric-abyssal"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-multiplayer-fabric-abyssal"
+    license: MIT
+  - type: software
+    title: "entities-multiplayer-fabric-rx"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-multiplayer-fabric-rx"
+    license: MIT
+  - type: software
+    title: "entities-muscle-course"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-muscle-course"
+    license: Apache-2.0
+  - type: software
+    title: "entities-order-independent-transparency"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-order-independent-transparency"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "entities-sakuragaoka-station"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-sakuragaoka-station"
+    license: MIT
+  - type: software
+    title: "entities-zone"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entities-zone"
+    license: MIT
+  - type: software
+    title: "entity-packet-compression-bench"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/entity-packet-compression-bench"
+    license: MIT
+  - type: software
+    title: "ggml"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/ggml"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "godot-sandbox"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/godot-sandbox"
+    license: BSD-3-Clause
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "godot-vrm"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/godot-vrm"
+    notes: "the GitHub API reports a licence it does not recognise; fork: follows its upstream's licence"
+  - type: software
+    title: "hermes-weftspun-manuals"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/hermes-weftspun-manuals"
+    notes: "the GitHub API reports no licence; archived"
+  - type: software
+    title: "interactor-a2a"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-a2a"
+    license: MIT
+  - type: software
+    title: "interactor-anny-fit-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-anny-fit-guest"
+    license: Apache-2.0
+  - type: software
+    title: "interactor-anny-follow-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-anny-follow-guest"
+    license: MIT
+  - type: software
+    title: "interactor-bake-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-bake-guest"
+    license: MIT
+  - type: software
+    title: "interactor-cage-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-cage-guest"
+    license: MIT
+  - type: software
+    title: "interactor-cloth-dynamics"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-cloth-dynamics"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-cloth-fit-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-cloth-fit-guest"
+    license: MIT
+  - type: software
+    title: "interactor-constrained-delaunay-2d-triangulation-cli"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-constrained-delaunay-2d-triangulation-cli"
+    license: MIT
+  - type: software
+    title: "interactor-curve-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-curve-guest"
+    license: MIT
+  - type: software
+    title: "interactor-drape-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-drape-guest"
+    license: MIT
+  - type: software
+    title: "interactor-fabric-zone-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-fabric-zone-guest"
+    notes: "the GitHub API reports a licence it does not recognise; the LICENSE file is MIT text (Godot contributors, Juan Linietsky and Ariel Manzur, K. S. Ernest (iFire) Lee) with a line saying vendored thirdparty/ and vendor/ keep their own licences; the API does not recognise that combination"
+  - type: software
+    title: "interactor-garment-code"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-garment-code"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-garment-fit-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-garment-fit-guest"
+    license: MIT
+  - type: software
+    title: "interactor-garment-proxy"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-garment-proxy"
+    license: MIT
+  - type: software
+    title: "interactor-geodesiac-path"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-geodesiac-path"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-headfit-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-headfit-guest"
+    license: MIT
+  - type: software
+    title: "interactor-infrastructure-logbook"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-infrastructure-logbook"
+    license: MIT
+    notes: "archived"
+  - type: software
+    title: "interactor-language-ninfer"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-language-ninfer"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-lasso-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-lasso-guest"
+    license: MIT
+  - type: software
+    title: "interactor-lean-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-lean-guest"
+    license: Apache-2.0
+  - type: software
+    title: "interactor-mojo-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-mojo-guest"
+    license: MIT
+    notes: "archived"
+  - type: software
+    title: "interactor-motion-creation-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-motion-creation-guest"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-motion-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-motion-guest"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-motion-matching-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-motion-matching-guest"
+    license: MIT
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-mujoco-sandbox-demo-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-mujoco-sandbox-demo-guest"
+    license: MIT
+  - type: software
+    title: "interactor-nvidia-warp-garment-code"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-nvidia-warp-garment-code"
+    notes: "the GitHub API reports a licence it does not recognise; fork: follows its upstream's licence; archived"
+  - type: software
+    title: "interactor-observer-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-observer-guest"
+    license: MIT
+  - type: software
+    title: "interactor-omnigen2"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-omnigen2"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "interactor-omnigen2-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-omnigen2-guest"
+    license: Apache-2.0
+  - type: software
+    title: "interactor-otel-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-otel-guest"
+    license: MIT
+  - type: software
+    title: "interactor-packets-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-packets-guest"
+    license: MIT
+  - type: software
+    title: "interactor-persona-frontier"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-persona-frontier"
+    license: MIT
+  - type: software
+    title: "interactor-pixal3d-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-pixal3d-guest"
+    license: MIT
+  - type: software
+    title: "interactor-presence"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-presence"
+    license: MIT
+    notes: "archived"
+  - type: software
+    title: "interactor-presence-gates"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-presence-gates"
+    license: MIT
+  - type: software
+    title: "interactor-remesh-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-remesh-guest"
+    license: MIT
+  - type: software
+    title: "interactor-replica-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-replica-guest"
+    license: MIT
+  - type: software
+    title: "interactor-seethrough-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-seethrough-guest"
+    license: Apache-2.0
+  - type: software
+    title: "interactor-sketch-mesh-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-sketch-mesh-guest"
+    license: MIT
+  - type: software
+    title: "interactor-skintokens-auto-rig"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-skintokens-auto-rig"
+    license: MIT
+  - type: software
+    title: "interactor-skintokens-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-skintokens-guest"
+    license: Apache-2.0
+  - type: software
+    title: "interactor-skintokens-rig-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-skintokens-rig-guest"
+    license: MIT
+  - type: software
+    title: "interactor-slughorn"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-slughorn"
+    license: MIT
+  - type: software
+    title: "interactor-solidcraft-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-solidcraft-guest"
+    license: Apache-2.0
+  - type: software
+    title: "interactor-taskweft-persona"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-taskweft-persona"
+    license: MIT
+  - type: software
+    title: "interactor-udim-unpack-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-udim-unpack-guest"
+    license: MIT
+  - type: software
+    title: "interactor-usd-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-usd-guest"
+    license: MIT
+  - type: software
+    title: "interactor-voice-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-voice-guest"
+    license: MIT
+  - type: software
+    title: "interactor-win64-mac-host"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-win64-mac-host"
+    license: MIT
+  - type: software
+    title: "interactor-xr-pilot"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-xr-pilot"
+    license: Apache-2.0
+  - type: software
+    title: "interactor-zone-router-guest"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/interactor-zone-router-guest"
+    license: MIT
+  - type: software
+    title: "kimodo-ggml"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/kimodo-ggml"
+    license: Apache-2.0
+  - type: software
+    title: "leanler"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/leanler"
+    license: MIT
+  - type: software
+    title: "model-quicklook"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/model-quicklook"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "multiplayer-fabric-webtransport"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/multiplayer-fabric-webtransport"
+    license: MPL-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "muscle-mimic"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/muscle-mimic"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "musclemimic_models"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/musclemimic_models"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "qwenputer"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/qwenputer"
+    notes: "the GitHub API reports a licence it does not recognise; fork: follows its upstream's licence"
+  - type: software
+    title: "repository-entity-store"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/repository-entity-store"
+    license: MIT
+  - type: software
+    title: "repository-openusd"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/repository-openusd"
+    notes: "the GitHub API reports a licence it does not recognise; fork: follows its upstream's licence"
+  - type: software
+    title: "repository-riscv64-sysroot"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/repository-riscv64-sysroot"
+    license: MIT
+  - type: software
+    title: "rfds"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/rfds"
+    license: Apache-2.0
+  - type: software
+    title: "service-bao-sqlite-fdb"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-bao-sqlite-fdb"
+    license: Apache-2.0
+  - type: software
+    title: "service-fabric-monolith"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-fabric-monolith"
+    license: MIT
+    notes: "archived"
+  - type: software
+    title: "service-fabric-x86_64-linux"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-fabric-x86_64-linux"
+    license: Apache-2.0
+    notes: "archived"
+  - type: software
+    title: "service-fabric-x86_64-linux-bootc"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-fabric-x86_64-linux-bootc"
+    license: Apache-2.0
+  - type: software
+    title: "service-fabric-x86_64-linux-container"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-fabric-x86_64-linux-container"
+    license: Apache-2.0
+  - type: software
+    title: "service-godot-build"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-godot-build"
+    license: MIT
+  - type: software
+    title: "service-lean-powershell-dsl"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-lean-powershell-dsl"
+    notes: "the GitHub API reports no licence; the repository has no LICENSE file"
+  - type: software
+    title: "service-multiplayer-fabric-generate-secrets"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-multiplayer-fabric-generate-secrets"
+    license: MIT
+  - type: software
+    title: "service-multiplayer-fabric-hosting"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-multiplayer-fabric-hosting"
+    license: MIT
+  - type: software
+    title: "service-openbao"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-openbao"
+    license: MIT
+  - type: software
+    title: "service-openbao-tracekit"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-openbao-tracekit"
+    license: MIT
+  - type: software
+    title: "service-zone"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/service-zone"
+    license: MIT
+    notes: "archived"
+  - type: software
+    title: "skin-tokens-ggml"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/skin-tokens-ggml"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence; archived"
+  - type: software
+    title: "sqlite-jdbc"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/sqlite-jdbc"
+    license: Apache-2.0
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "TOOL_cloth_dynamics"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/TOOL_cloth_dynamics"
+    license: MIT
+    notes: "fork: follows its upstream's licence; archived"
+  - type: software
+    title: "transport-feed-entity-servers"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/transport-feed-entity-servers"
+    license: MIT
+  - type: software
+    title: "transport-godot-mcp"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/transport-godot-mcp"
+    license: MIT
+  - type: software
+    title: "transport-meshing-pen"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/transport-meshing-pen"
+    license: MIT
+  - type: software
+    title: "transport-renpho-tape"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/transport-renpho-tape"
+    license: MIT
+    notes: "archived"
+  - type: software
+    title: "transport-zone-relay"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/transport-zone-relay"
+    license: MIT
+  - type: software
+    title: "udon2godot"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/udon2godot"
+    license: BSD-2-Clause
+    notes: "fork: follows its upstream's licence"
+  - type: software
+    title: "vr-sns-streamer"
+    authors:
+      - name: "V-Sekai-fire"
+    repository-code: "https://github.com/V-Sekai-fire/vr-sns-streamer"
+    license: MIT
+    notes: "fork: follows its upstream's licence; archived"
